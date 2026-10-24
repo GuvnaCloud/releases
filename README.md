@@ -35,4 +35,7 @@ exact verification commands.
 
 ## Report a security issue
 
-Email security@guvnacloud.com. Please do not open a public issue.
+Please report vulnerabilities **privately**, never in a public issue:
+
+- [Report a vulnerability](https://github.com/GuvnaCloud/releases/security/advisories/new) through GitHub's private vulnerability reporting (preferred), or
+- email security@guvnacloud.com.
